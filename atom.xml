@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://ziio00.github.io</id>
     <title>Ziio</title>
     <subtitle></subtitle>
-    <icon>http://example.com/assets/favicon.ico</icon>
-    <link href="http://example.com" />
+    <icon>https://ziio00.github.io/assets/favicon.ico</icon>
+    <link href="https://ziio00.github.io" />
     <author>
       <name>ziio.</name>
     </author>
     <updated>2025-10-30T06:59:28.035Z</updated>
     <category term="技术，生活，记录" />
     <entry>
-        <id>http://example.com/2025/10/30/20251030/20251030/</id>
+        <id>https://ziio00.github.io/2025/10/30/20251030/20251030/</id>
         <title>Blog 第一天 ， 摸鱼ing🐟。。。</title>
-        <link rel="alternate" href="http://example.com/2025/10/30/20251030/20251030/"/>
+        <link rel="alternate" href="https://ziio00.github.io/2025/10/30/20251030/20251030/"/>
         <content type="html">&lt;p&gt;今天一大早，因为昨天的失败又重回寻找 blog frontend stype 的行动中。结果选了半天，还是用了 hexo主题 - &lt;strong&gt;shokaX &lt;/strong&gt;, 好看又耐用，顿然醒悟。&lt;br /&gt;
 Blog 其实不应该静态【binding markdown 】就好了吗，过多的设计反而冗余且反效果，像昨天找了个佬的 Aurora ， 部署半天 docker 容器，又是 mysql|redis，又是 elasticsearch|minio 的，把整个前后台全家桶整来了，结果最后运行起来效果不太好。【卡到爆炸，其实应该是我的服务器太拉了(〃＞皿＜)】。&lt;/p&gt;
 &lt;ul&gt;
@@ -30,9 +30,9 @@ Blog 其实不应该静态【binding markdown 】就好了吗，过多的设计�
         <updated>2025-10-30T06:59:28.035Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/10/30/hello-world/</id>
+        <id>https://ziio00.github.io/2025/10/30/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="http://example.com/2025/10/30/hello-world/"/>
+        <link rel="alternate" href="https://ziio00.github.io/2025/10/30/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
